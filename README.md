@@ -50,4 +50,4 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - 💼 [LinkedIn](https://www.linkedin.com/in/gulcinyuzgulec/)  
 - 💻 [GitHub](https://github.com/gulcinyzglc/)  
 - 📧 gulcinyzglc65@gmail.com  
-- 📊 [Kaggle](https://www.kaggle.com/gulcinyzglc) şu an böyle hiç yaratıcı değil stil olarak
+- 📊 [Kaggle](https://www.kaggle.com/gulcinyzglc) 
