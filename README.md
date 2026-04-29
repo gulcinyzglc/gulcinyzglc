@@ -1,8 +1,5 @@
 ## Hi there, I'm Gülçin 👋
 
-<p align="center">
-Computer Engineering Student
-</p>
 
 ---
 
