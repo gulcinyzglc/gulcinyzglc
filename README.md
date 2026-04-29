@@ -55,9 +55,9 @@
 ## 📫 How to reach me:
 
 -Linkedin: https://www.linkedin.com/in/gulcinyuzgulec/
----
+--
 -Github: https://github.com/gulcinyzglc/
----
+--
 -Gmail: gulcinyzglc65@gmail.com
----
+--
 -Kaggle: https://www.kaggle.com/gulcinyzglc
