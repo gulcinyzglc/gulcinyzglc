@@ -31,7 +31,7 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,git,github,vscode" />
 </p>
----
+
 
 ## 🌱 I'm Currently Learning
 
@@ -48,7 +48,7 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - Intelligent Systems Engineering
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulcinyzglc&layout=compact&theme=tokyonight)
 ---
 ## 📫 How to Reach Me
 
