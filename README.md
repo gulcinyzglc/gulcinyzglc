@@ -48,7 +48,13 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - Intelligent Systems Engineering
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulcinyzglc&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcinyzglc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 ## 📫 How to Reach Me
 
