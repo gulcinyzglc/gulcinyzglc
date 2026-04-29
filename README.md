@@ -4,8 +4,6 @@
 
 I am a third-year Computer Engineering student with a strong interest in data science and intelligent systems. I enjoy problem solving, working with data, and turning ideas into practical solutions. My interests include applying engineering and data-driven approaches to real-world problems while continuously learning and exploring new technologies.
 
-<br>
-
 ## ✨ Personal Traits
 
 | Strengths | Description |
@@ -13,8 +11,6 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 | Curiosity | Exploring new ideas |
 | Persistence | Solving challenging problems |
 | Creativity | Building practical solutions |
-
-<br>
 
 ## 💡 Technical Interests and Skills
 
@@ -28,15 +24,11 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,git,github,vscode" />
 </p>
 
-<br>
-
 ## 🌱 I'm Currently Learning
 
 - JavaScript for interactive applications and game development  
 - HTML and CSS for web development  
 - Expanding my knowledge in data science and intelligent systems
-
-<br>
 
 ## 🎯 Career Interests
 
@@ -47,8 +39,6 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
-<br>
 
 ## 📫 How to Reach Me
 
