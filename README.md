@@ -11,9 +11,11 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 
 ## ✨ Personal Traits
 
-- Curious and analytical  
-- Patient and persistent when solving problems  
-- Creative in approaching technical challenges  
+| Strengths | |
+|---------|---|
+| Curiosity | Exploring new ideas |
+| Persistence | Solving challenging problems |
+| Creativity | Building practical solutions |
 
 ---
 
@@ -25,6 +27,10 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - **Databases:** SQL, MS SQL Server  
 - **Development Tools:** Git, GitHub, VS Code, PyCharm, Visual Paradigm
 
+---
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,git,github,vscode" />
+</p>
 ---
 
 ## 🌱 I'm Currently Learning
@@ -42,7 +48,8 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - Intelligent Systems Engineering
 
 ---
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true)
+---
 ## 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gulcinyuzgulec/)  
