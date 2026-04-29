@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gülçin 👋</h1>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Gülçin&fontAlign=50&fontSize=50" />
 </p>
