@@ -8,11 +8,7 @@ Computer Engineering Student
 
 ## 💻 About Me
 
-- 🎓 Third-year Computer Engineering student  
-- 📊 Strong interest in Data Science and intelligent systems  
-- 🧩 I enjoy problem solving, working with data, and visualizing ideas  
-- 💡 Interested in applying engineering and data-driven approaches to real-world problems  
-- 🌱 Continuously learning and exploring new technologies  
+I am a third-year Computer Engineering student with a strong interest in data science and intelligent systems. I enjoy problem solving, working with data, and turning ideas into practical solutions. My interests include applying engineering and data-driven approaches to real-world problems, while continuously learning and exploring new technologies. 
 
 ---
 
