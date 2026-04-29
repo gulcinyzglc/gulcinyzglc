@@ -1,23 +1,20 @@
-## Hi there, I'm Gülçin 👋
-
-
----
+# Hi there, I'm Gülçin 👋
 
 ## 💻 About Me
 
-I am a third-year Computer Engineering student with a strong interest in data science and intelligent systems. I enjoy problem solving, working with data, and turning ideas into practical solutions. My interests include applying engineering and data-driven approaches to real-world problems, while continuously learning and exploring new technologies. 
+I am a third-year Computer Engineering student with a strong interest in data science and intelligent systems. I enjoy problem solving, working with data, and turning ideas into practical solutions. My interests include applying engineering and data-driven approaches to real-world problems while continuously learning and exploring new technologies.
 
----
+<br>
 
 ## ✨ Personal Traits
 
-| Strengths | |
-|---------|---|
+| Strengths | Description |
+|----------|-------------|
 | Curiosity | Exploring new ideas |
 | Persistence | Solving challenging problems |
 | Creativity | Building practical solutions |
 
----
+<br>
 
 ## 💡 Technical Interests and Skills
 
@@ -27,38 +24,35 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - **Databases:** SQL, MS SQL Server  
 - **Development Tools:** Git, GitHub, VS Code, PyCharm, Visual Paradigm
 
----
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,git,github,vscode" />
 </p>
 
+<br>
 
 ## 🌱 I'm Currently Learning
 
-- JavaScript for interactive applications and game development  
-- HTML and CSS for web development  
+- JavaScript for interactive applications and game development  
+- HTML and CSS for web development  
 - Expanding my knowledge in data science and intelligent systems
 
----
+<br>
 
 ## 🎯 Career Interests
 
-- Data Science  
-- Machine Learning Applications  
+- Data Science  
+- Machine Learning Applications  
 - Intelligent Systems Engineering
 
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcinyzglc&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
+<br>
+
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gulcinyuzgulec/)  
-- 💻 [GitHub](https://github.com/gulcinyzglc/)  
-- 📧 gulcinyzglc65@gmail.com  
-- 📊 [Kaggle](https://www.kaggle.com/gulcinyzglc) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/gulcinyuzgulec/)  
+- 💻 [GitHub](https://github.com/gulcinyzglc/)  
+- 📧 gulcinyzglc65@gmail.com  
+- 📊 [Kaggle](https://www.kaggle.com/gulcinyzglc)
