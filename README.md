@@ -17,11 +17,13 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 
 ---
 
-💡 Technical Interests and Skills 
--Programming Languages: Python, JavaScript, Java, C++ 
--Web Development: HTML and CSS 
--Data and Image Processing: OpenCV, NumPy, Pandas, Machine Learning Fundamentals 
--Development Tools: Git, GitHub, VS Code, PyCharm, Visual Paradigm
+## 💡 Technical Interests and Skills
+
+- **Programming Languages:** Python, JavaScript, Java, C++  
+- **Web Development:** HTML, CSS  
+- **Data and Image Processing:** OpenCV, NumPy, Pandas, Machine Learning Fundamentals  
+- **Databases:** SQL, MS SQL Server  
+- **Development Tools:** Git, GitHub, VS Code, PyCharm, Visual Paradigm
 
 ---
 
