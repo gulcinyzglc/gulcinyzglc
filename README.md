@@ -32,10 +32,11 @@ NumPy • Pandas • Machine Learning Fundamentals
 OpenCV • Classical Image Processing
 
 **Databases**  
-MS SQL Server • SQL
+MS SQL Server 
 
 **Software Engineering & Tools**  
 Git • GitHub • VS Code • PyCharm • Visual Paradigm
+
 ---
 
 ## 🌱 I'm Currently Learning
