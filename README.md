@@ -38,6 +38,11 @@
 
 ---
 
+## 🌱 I'm Currently Learning
+
+- JavaScript for interactive applications and game development  
+- HTML and CSS for web development  
+
 ---
 
 ## 📚 Areas of Interest
@@ -49,18 +54,19 @@
 - Image Processing  
 - Intelligent Systems  
 - Software Engineering  
-- Computer Graphics
 
 ---
 
-## 🚀 Projects
+## 🤝 I’m Interested In Collaborating On
 
-- 📦 Robust Barcode Region Detection Using Classical Image Processing
-- 🎮 Neon Pulse Runner Game Project
-- 📊 UML diagrams and system analysis projects
-
+- Machine Learning and Data Science projects  
+ 
+- Open-source software projects
 ---
 
-## 📫 Let's Connect
+## 📫 How to reach me:
 
-- GitHub Profile Project for System Analysis Course
+-Linkedin: https://www.linkedin.com/in/gulcinyuzgulec/
+-Github: https://github.com/gulcinyzglc/
+-Gmail: gulcinyzglc65@gmail.com
+-Kaggle: https://www.kaggle.com/gulcinyzglc
