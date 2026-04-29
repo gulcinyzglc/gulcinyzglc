@@ -48,7 +48,7 @@ I am a third-year Computer Engineering student with a strong interest in data sc
 - Intelligent Systems Engineering
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulcinyzglc&show_icons=true&theme=tokyonight)
 ---
 ## 📫 How to Reach Me
 
